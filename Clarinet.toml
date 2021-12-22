@@ -1,0 +1,7 @@
+[project]
+name = "xyz-token"
+requirements = []
+costs_version = 1
+[contracts.xyz-token]
+path = "contracts/xyz-token.clar"
+depends_on = []
